@@ -1,6 +1,6 @@
 import numpy as np
 
-#converting into seconds to be used to calculate a
+#converting into seconds (to be used to calculate a)
 earthDayInSeconds=60.*60*24
 numberOfEarthDaysInAYear=365.25
 earthYearInSeconds=earthDayInSeconds*365.25 #unused here
